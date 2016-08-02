@@ -1,0 +1,2 @@
+# exclude sphinx build directory
+_build/

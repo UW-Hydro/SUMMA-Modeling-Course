@@ -7,6 +7,7 @@
 The Art and Science of Hydrologic Modeling
 ==========================================
 
+---------------------------------------------------------
 A project-based course in hydrologic modeling using SUMMA
 ---------------------------------------------------------
 
@@ -24,6 +25,8 @@ The order of the modules will be left to the individual instructors, although th
 
 Finally, we invite anyone to help us expand and enhance this series of modules. Detailed instructions on how to contribute can be found :ref:`here <how-to-contribute>`.
 
+Course Modules
+--------------
 .. toctree::
    :maxdepth: 1
    :name: master-toc

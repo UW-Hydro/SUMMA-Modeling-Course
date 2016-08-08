@@ -1,8 +1,8 @@
-# SUMMA Modeling Course
+# The Art and Science of Hydrologic Modeling
 
 [![Documentation Status](https://readthedocs.org/projects/summa-modeling-course/badge/?version=develop)](http://summa-modeling-course.readthedocs.io/en/develop/?badge=develop) [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://raw.githubusercontent.com/UW-Hydro/SUMMA-Modeling-Course/develop/LICENSE.txt)
 
-This web site serves as the source code repository for a hydrological modeling course built around the Structure for Unifying Multiple Modeling Alternatives ([SUMMA](https://www.ral.ucar.edu/projects/summa)). This repository simply contains the code to build the course web site. To see the actual course, click on the `docs` button at the top of this README.
+This web site serves as the source code repository for a hydrologic modeling course built around the Structure for Unifying Multiple Modeling Alternatives ([SUMMA](https://www.ral.ucar.edu/projects/summa)). This repository simply contains the code to build the course web site. To see the actual course, click on the `docs` button at the top of this README.
 
 Unlike this file, which uses [github flavored Markdown](https://guides.github.com/features/mastering-markdown/), the actual course web site uses [Sphinx](http://www.sphinx-doc.org/) and [reStructuredText](http://docutils.sourceforge.net/rst.html). This should not matter to you if you just want to read the [course documents] (http://summa-modeling-course.readthedocs.io/en/develop/?badge=develop), but may be useful information if you want to contribute.
 

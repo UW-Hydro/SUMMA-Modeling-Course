@@ -10,3 +10,6 @@ Course Introduction
    :name: module-introduction-toc
 
    how-to-contribute
+
+.. todo::
+   Content for course introduction.

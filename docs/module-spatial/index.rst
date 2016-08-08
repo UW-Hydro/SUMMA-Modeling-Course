@@ -8,3 +8,6 @@ Spatial Heterogeneity and Connectivity
    :maxdepth: 1
    :caption: Table of Contents
    :name: module-spatial-toc
+
+.. todo::
+   Content for spatial heterogeneity and connectivity module.

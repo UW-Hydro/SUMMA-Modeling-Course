@@ -43,3 +43,4 @@ Course Modules
    module-parameters/index
    module-uncertainty/index
    module-capstone/index
+   references

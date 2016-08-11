@@ -31,7 +31,7 @@ Reading list
 
 * :ref:`Beven, 2006 <Beven_2006>`: Searching for the Holy Grail of scientific hydrology: :math:`Q_t = H(S, R, \Delta t) A` as closure.
 
-* :ref:`McDonnell et al, 2007 <McDonnell_et_al_2007`: Moving beyond heterogeneity and process complexity: A new vision for watershed hydrology.
+* :ref:`McDonnell et al, 2007 <McDonnell_et_al_2007>`: Moving beyond heterogeneity and process complexity: A new vision for watershed hydrology.
 
 * :ref:`Savenije, 2009 <Savenije_2009>`: HESS Opinions "The art of hydrology".
 
@@ -44,9 +44,11 @@ Reading list
 Additional reading
 ------------------
 
-* Follow-up to the blueprint paper from :ref:`Freeze and Harlan (1969 <Freeze_and_Harlan_1969)>`:
+* Follow-up to the blueprint paper from :ref:`Freeze and Harlan (1969) <Freeze_and_Harlan_1969>`:
 
- + :ref:`Freeze, 191 <Freeze_1971>`: Three-dimensional, transient, saturated-unsaturated flow in a groundwater basin.
+ + :ref:`Freeze, 1971 <Freeze_1971>`: Three-dimensional, transient, saturated-unsaturated flow in a groundwater basin.
+
+ + :ref:`Stephenson and Freeze, 1974 <Stephenson_and_Freeze_1974>`: Mathematical simulation of subsurface flow contributions to snowmelt runoff, Reynolds Creek Watershed, Idaho.
 
  + :ref:`Abbott et al, 1986a <Abbott_et_al_1986a>`: An introduction to the European Hydrological System—Systeme Hydrologique Europeen,“SHE”, 1: History and philosophy of a physically-based, distributed modelling system.
 

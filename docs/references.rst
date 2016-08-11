@@ -28,7 +28,7 @@ Beven, K. J., and H. L. Cloke, 2012: Comment on "Hyperresolution global land sur
 
 .. _Bierkens_et_al_2014:
 
-Bierkens, M. F. P., and Coauthors, 2015: Hyper-resolution global hydrological modelling: what is next? Hydrolical Processes,  :doi:`10.1002/hyp.10391`.
+Bierkens, M. F. P., and Coauthors, 2015: Hyper-resolution global hydrological modelling: what is next? Hydrological Processes,  :doi:`10.1002/hyp.10391`.
 
 .. _Clark_et_al_2011:
 

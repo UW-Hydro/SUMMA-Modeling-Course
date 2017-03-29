@@ -18,6 +18,10 @@ Abbott, M. B., J. C. Bathurst, J. A. Cunge, P. E. O'Connell, and J. Rasmussen, 1
 
 Abbott, M. B., J. C. Bathurst, J. A. Cunge, P. E. O'connell, and J. Rasmussen, 1986b: An introduction to the European Hydrological System—Systeme Hydrologique Europeen,“SHE”, 2: Structure of a physically-based, distributed modelling system. *Journal of Hydrology*, :doi:`10.1016/0022-1694(86)90115-0`.
 
+.. _Best_et_al_2015:
+
+Best, M. J., G. Abramowitz, H. R. Johnson, A. J. Pitman, G. Balsamo, A. Boone, M. Cuntz, B. Decharme, P. A. Dirmeyer, J. Dong, M. Ek, Z. Guo, V. Haverd, B. J. J. Van den Hurk, G. S. Nearing, B. Pak, C. Peters-Lidard, J. A. Santanello, L. Stevens, and N. Vuichard, 2015: The plumbing of land surface models: Benchmarking model performance. *Journal of Hydrometeorology*, :doi:`10.1175/jhm-d-14-0158.1`.
+
 .. _Beven_et_al_1988:
 
 Beven, K. J., E. F. Wood, and M. Sivapalan, 1988: On hydrological heterogeneity — Catchment morphology and catchment response. *Journal of Hydrology*, :doi:`10.1016/0022-1694(88)90192-8`.
@@ -43,6 +47,14 @@ Beven, K. J., and H. L. Cloke, 2012: Comment on "Hyperresolution global land sur
 
 Bierkens, M. F. P., and Coauthors, 2015: Hyper-resolution global hydrological modelling: what is next? *Hydrological Processes*,  :doi:`10.1002/hyp.10391`.
 
+.. _Boone_and_Wetzel_1996:
+
+Boone, A., and P. J. Wetzel, 1996: Issues related to low resolution modeling of soil moisture: Experience with the PLACE model. *Global and Planetary Change*, :doi:`10.1016/0921-8181(95)00044-5`.
+
+.. _Clark_and_Kavetski_2010:
+
+Clark, M. P., and D. Kavetski, 2010: Ancient numerical daemons of conceptual hydrological modeling: 1. Fidelity and efficiency of time stepping schemes. *Water Resources Research*, :doi:`10.1029/2009wr008894`.
+
 .. _Clark_et_al_2011:
 
 Clark, M. P., D. Kavetski, and F. Fenicia, 2011: Pursuing the method of multiple working hypotheses for hydrological modeling. *Water Resources Research*, :doi:`10.1029/2010wr009827`.
@@ -54,6 +66,10 @@ Clark, M. P., B. Nijssen, J. Lundquist, D. Kavetski, D. Rupp, R. Woods, J. Freer
 .. _Clark_et_al_2015b:
 
 Clark, M. P., B. Nijssen, J. Lundquist, D. Kavetski, D. Rupp, R. Woods, J. Freer, E. Gutmann, A. Wood, D. Gochis, R. Rasmussen, D. Tarboton, V. Mahat, G. Flerchinger, D. Marks, 2015b: A unified approach for process-based hydrologic modeling: Part 2. Model implementation and case studies. *Water Resources Research*, :doi:`10.1002/2015WR017200`.
+
+.. _Clark_et_al_2015c:
+
+Clark, M. P., Y. Fan, D. M. Lawrence, J. C. Adam, D. Bolster, D. J. Gochis, R. P. Hooper, M. Kumar, L. R. Leung, D. S. Mackay, R. M. Maxwell, C. Shen, S. C. Swenson, and X. Zeng, 2015: Improving the representation of hydrologic processes in Earth System Models. *Water Resources Research*, :doi:`10.1002/2015WR017096`.
 
 .. _Freeze_and_Harlan_1969:
 
@@ -75,6 +91,14 @@ Gupta, H. V., T. Wagener, and Y. Q. Liu, 2008: Reconciling theory with observati
 
 Gupta, H. V., M. P. Clark, J. A. Vrugt, G. Abramowitz, and M. Ye, 2012: Towards a comprehensive assessment of model structural adequacy. *Water Resources Research*, :doi:`10.1029/2011wr011044`.
 
+.. _Kavetski_and_Clark_2010:
+
+Kavetski, D., and M. P. Clark, 2010: Ancient numerical daemons of conceptual hydrological modeling: 2. Impact of time stepping schemes on model analysis and prediction. *Water Resources Research*, :doi:`10.1029/2009wr008896`.
+
+.. _Kavetski_and_Clark_2011:
+
+Kavetski, D., and M. P. Clark, 2011: Numerical troubles in conceptual hydrology: Approximations, absurdities and impact on hypothesis testing. *Hydrological Processes*,:doi:`10.1002/hyp.7899`.
+
 .. _Klemes_1983:
 
 Klemeš, V., 1983: Conceptualization and scale in hydrology. *Journal of Hydrology*, :doi:`10.1016/0022-1694(83)90208-1`.
@@ -94,6 +118,10 @@ Loague, K., and J. E. VanderKwaak, 2004: Physics-based hydrologic response simul
 .. _McDonnell_et_al_2007:
 
 McDonnell, J. J., and Coauthors, 2007: Moving beyond heterogeneity and process complexity: A new vision for watershed hydrology. *Water Resources Research*, :doi:`10.1029/2006WR005467`.
+
+.. _Nearing_et_al_2016:
+
+Nearing, G. S., D. M. Mocko, C. D. Peters-Lidard, S. V. Kumar, and Y. Xia, 2016: Benchmarking NLDAS-2 soil moisture and evapotranspiration to separate uncertainty contributions. *Journal of Hydrometeorology*, :doi:`10.1175/JHM-D-15-0063.1`.
 
 .. _Savenije_2009:
 
